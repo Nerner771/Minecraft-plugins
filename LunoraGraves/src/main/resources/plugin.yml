@@ -1,0 +1,7 @@
+name: LunoraGraves
+version: '${version}'
+
+main: org.MineDream.lunoraGraves.LunoraGraves
+api-version: '26.3'
+load: POSTWORLD
+author: Nerner, for MineDream
